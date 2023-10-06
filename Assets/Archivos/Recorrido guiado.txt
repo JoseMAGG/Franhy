@@ -1,0 +1,2 @@
+posición inicial: X=-18.195 Y=1.179 Z=6.306
+Rotación inicial: X=0 Y=180 Z=0
